@@ -12,5 +12,5 @@ Sergio Andres Riveros Suescun (Implementador)
 
 Haiber Douglas Portillo Quinteri (Diseñador)
 
-# Subida de los Requerimientos Funcionales y no Funcionales de cada Funcionalidad
+# Subida de los Requerimientos Funcionales y no Funcionales de cada Funcionalidad del Proyecto usando Project Libre
 
