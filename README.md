@@ -8,6 +8,9 @@ Deivy Camilo Florez Prieto (Scrum Master)
 
 Jorge Sneyder Rodriguez Rubio (Dueño de Producto)
 
-Sergio Andres Riveros Suescun (Implementadores)
+Sergio Andres Riveros Suescun (Implementador)
 
-Haiber Douglas Portillo Quinteri (Diseñadores)
+Haiber Douglas Portillo Quinteri (Diseñador)
+
+# Subida de los Requerimientos Funcionales y no Funcionales de cada Funcionalidad
+
