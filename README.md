@@ -14,3 +14,12 @@ Haiber Douglas Portillo Quinteri (Diseñador)
 
 # Subida de los Requerimientos Funcionales y no Funcionales de cada Funcionalidad del Proyecto usando Project Libre
 
+Funcionalidades Asignadas
+
+Deivy Camilo Florez Prieto (Gestion de Usuarios, Gestion de Asistencias)
+
+Jorge Sneyder Rodriguez Rubio (Gestion de Rutinas)
+
+Sergio Andres Riveros Suescun (Gestion de Pagos)
+
+Haiber Douglas Portillo Quinteri (Gestion de Descuentos)
